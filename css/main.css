@@ -45,10 +45,12 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
+  margin-left: 0;
 }
 
 body {
   margin: 0;
+  width: 100%;
 }
 
 article ol {
