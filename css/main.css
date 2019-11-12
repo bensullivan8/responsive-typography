@@ -58,7 +58,8 @@ article ol {
 }
 
 article p {
-  margin-top: 0;
+  margin-top: 1.3em;
+  margin-bottom: 1.3em;
 }
 
 .quote {
