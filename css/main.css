@@ -26,6 +26,7 @@ article {
 
 article h1 {
   font-weight: normal;
+  margin-bottom: 0;
 }
 
 article header {
@@ -69,6 +70,14 @@ article p {
     line-height: 1.4;
   }
 
+  body {
+    margin-bottom: 1.4em;
+  }
+
+  header h1 p {
+    margin-top: 0;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -76,6 +85,10 @@ article p {
   html {
     font-size: 120%;
     line-height: 1.5;
+  }
+
+  body {
+    margin-bottom: 1.5em;
   }
 
 }
