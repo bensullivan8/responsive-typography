@@ -66,6 +66,10 @@ article p {
   margin-top: 1.3em;
 }
 
+p {
+  margin: 0;
+}
+
 .quote {
   color: #999;
 }
