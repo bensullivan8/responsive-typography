@@ -36,6 +36,7 @@ article header {
 article header p {
   font-style: italic;
   margin-top: 0;
+  margin-bottom: 1em;
 }
 
 article > p:last-child {
