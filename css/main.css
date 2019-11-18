@@ -86,7 +86,7 @@ article p {
   }
 
   article h1 {
-    margin-top: .9em;
+    margin-top: .85em;
   }
 
   blockquote {
@@ -104,6 +104,10 @@ article p {
 
   body {
     margin-bottom: 1.5em;
+  }
+
+  h1 {
+    margin-top: .8em;
   }
 
 }
